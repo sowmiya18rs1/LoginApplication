@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>colortobutton.txt</file>
+    </qresource>
+</RCC>
